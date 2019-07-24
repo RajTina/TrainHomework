@@ -57,3 +57,9 @@ body{
     font-display: white;
    
 }
+#submit{
+    font-style: italic;
+    color:  white;
+    border: dotted gold; 
+    font-display: white;
+}

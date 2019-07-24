@@ -94,7 +94,7 @@ $("#submit").on("click", function() {
     next: nextTrain
   };
 
-  console.log(newTrain);
+  //console.log(newTrain);
   database.ref().push(newTrain);
 
   $("#trName").val("");
