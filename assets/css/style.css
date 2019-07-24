@@ -1,0 +1,59 @@
+#head{
+    background-color:darkslategrey;
+    text-align: center;
+    font-style: italic;
+    color:  white;
+    border: dotted gold;
+
+}
+#mainContainer{
+    background: url(../images/concrete_seamless.png);
+    
+}
+body{
+    background-color: grey;
+}
+#tHead{
+    background: darkslategray;
+}
+.card{
+    background-color:darkslategrey;
+    text-align: center;
+    font-style: italic;
+    color:  white;
+    border: dotted gold;
+   
+  
+
+}
+.currentTrain{
+    text-align: center;
+
+}
+.card{
+    text-align: center;
+}
+.addTrain{
+    background-color:darkslategrey;
+    text-align: center;
+    font-style: italic;
+    color:  white;
+    border: dotted gold; 
+}
+
+#addTrainContainer{
+    background-color:darkslategrey;
+    text-align: center;
+    font-style: italic;
+    color:  white;
+    border: dotted gold; 
+}
+#trainTableContainer{
+    background-color:gray;
+    text-align: center;
+    font-style: italic;
+    color:  white;
+    border: dotted gold; 
+    font-display: white;
+   
+}
